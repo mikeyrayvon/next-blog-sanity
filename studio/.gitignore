@@ -1,0 +1,10 @@
+# dependencies
+/node_modules
+
+# macOS finder cache file
+.DS_Store
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
